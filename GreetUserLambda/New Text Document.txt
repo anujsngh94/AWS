@@ -1,4 +1,10 @@
 asflasglksgnnv  akdkdk
+<<<<<<< HEAD
 
 
 jsdfljslgkj
+||||||| merged common ancestors
+=======
+
+sdggmbmbkgkl
+>>>>>>> b4685327e0b33219c4dc858653ae5112a4da7c24
